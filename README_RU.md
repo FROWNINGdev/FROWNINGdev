@@ -2,7 +2,7 @@
 
 [🇷🇺 Русский](./README_RU.md) | [🇬🇧 English](./README.md)
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="300" src="https://i.gifer.com/3odR.gif" />
 
 Мне 23 года, я окончил **KIUT**, факультет **Information Systems Engineering**,  
 и сейчас работаю **Full-stack Python-разработчиком** в [SCC](https://scc.uz/).
