@@ -1,5 +1,7 @@
 # Привет! Я — FROWNINGdev 👋
 
+[🇷🇺 Русский](./README_RU.md) | [🇬🇧 English](./README.md)
+
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 Мне 23 года, я окончил **KIUT**, факультет **Information Systems Engineering**,  
