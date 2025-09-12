@@ -2,7 +2,7 @@
 
 [🇷🇺 Русский](./README_RU.md) | [🇬🇧 English](./README.md)
 
-<img align="right" alt="Coding" width="300" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fru%2Fgifs%2F%25D0%25BA%25D0%25BE%25D0%25B4%25D0%25B8%25D0%25BD%25D0%25B3&psig=AOvVaw3iYW0cP0dELP-2bgP6l8xg&ust=1757760738551000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqGAoTCPCKyZaH048DFQAAAAAdAAAAABClAQ)" />
+<img align="right" alt="Coding" width="300" src="https://i.gifer.com/origin/8b/8b27923ba6800abfd2d4a8061fe125b2.gif" />
 
 I'm 23 years old, a graduate of **KIUT**, Faculty of **Information Systems Engineering**,  
 and currently working as a **Full-stack Python Developer** at [SCC](https://scc.uz/).
