@@ -4,6 +4,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://i.gifer.com/3odR.gif" />
 
+
 I'm 23 years old, a graduate of **KIUT**, Faculty of **Information Systems Engineering**,  
 and currently working as a **Full-stack Python Developer** at [SCC](https://scc.uz/).
 
