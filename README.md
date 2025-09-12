@@ -1,19 +1,21 @@
-# Привет! Я — FROWNINGdev 👋
+# Hello! I'm FROWNINGdev 👋
+
+[🇷🇺 Русский](#привет-я--frowningdev-) | [🇬🇧 English](#hello-im-frowningdev-)
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Мне 23 года, я окончил **KIUT**, факультет **Information Systems Engineering**,  
-и сейчас работаю **Full-stack Python-разработчиком** в [SCC](https://scc.uz/).
+I'm 23 years old, a graduate of **KIUT**, Faculty of **Information Systems Engineering**,  
+and currently working as a **Full-stack Python Developer** at [SCC](https://scc.uz/).
 
-- 🛡 Специализируюсь на **кибербезопасности**, **антиспуфинге** и **компьютерном зрении**
-- 🧠 Практикуюсь в обучении **нейросетей** и работе с **датасетами**
-- 🌐 Разрабатываю **веб-приложения** (backend на Python: Django, Flask, FastAPI; frontend с React)
-- 🚀 Реализовал более **6 значимых проектов** в областях AI, CV и IoT
-- 🔍 Интересуюсь промышленными решениями, автоматизацией и защитой информации  
+- 🛡 Specializing in **cybersecurity**, **anti-spoofing**, and **computer vision**
+- 🧠 Practicing **neural network training** and working with **datasets**
+- 🌐 Building **web applications** (backend with Python: Django, Flask, FastAPI; frontend with React)
+- 🚀 Completed more than **6 significant projects** in AI, CV, and IoT
+- 🔍 Interested in industrial solutions, automation, and information security  
 
 ---
 
-### 🛠️ Стек технологий и навыки
+### 🛠️ Tech Stack & Skills
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
@@ -31,43 +33,43 @@
 
 ---
 
-### 🚀 Важные проекты
+### 🚀 Key Projects
 
-1. **Цифровой рынок**  
-   - Система детекции по прилавкам  
-   - Мониторинг наличия/отсутствия объектов  
-   - Обводка ROI для анализа активности  
-   **Технологии:** Python | OpenCV | PyTorch | React  
+1. **Digital Market**  
+   - Shelf detection system  
+   - Monitoring presence/absence of products  
+   - ROI highlighting for activity analysis  
+   **Tech:** Python | OpenCV | PyTorch | React  
 
-2. **Детекция на PTZ-камерах с ROI**  
-   - Автоматическое выделение зон интереса  
-   - Детекция и мониторинг в реальном времени  
-   **Технологии:** Python | OpenCV | ONVIF | FastAPI  
+2. **PTZ Camera ROI Detection**  
+   - Automatic ROI definition  
+   - Real-time detection and monitoring  
+   **Tech:** Python | OpenCV | ONVIF | FastAPI  
 
-3. **STM32 Nucleo в банкомате**  
-   - Реализация простого самописного блокчейна  
-   - Контроль и безопасность транзакций  
-   **Технологии:** STM32 | C | Embedded Systems | Blockchain (custom)  
+3. **STM32 Nucleo ATM**  
+   - Custom simple blockchain implementation  
+   - Transaction security & control  
+   **Tech:** STM32 | C | Embedded Systems | Blockchain (custom)  
 
-4. **Система прокторинга**  
-   - Распознавание направления взгляда пользователя  
-   - Определение запрещённых объектов в кадре  
-   - Предотвращение списывания  
-   **Технологии:** Python | OpenCV | PyTorch | FastAPI | React  
+4. **Proctoring System**  
+   - Detects user gaze direction  
+   - Identifies forbidden objects in frame  
+   - Prevents cheating attempts  
+   **Tech:** Python | OpenCV | PyTorch | FastAPI | React  
 
-5. **Предсказание поломок оборудования (НГМК)**  
-   - Анализ аномалий на производстве  
-   - Прогнозирование отказов и аварийных ситуаций  
-   **Технологии:** Python | Machine Learning | Time Series | Anomaly Detection  
+5. **Equipment Failure Prediction (NGMK)**  
+   - Industrial anomaly analysis  
+   - Failure & downtime forecasting  
+   **Tech:** Python | Machine Learning | Time Series | Anomaly Detection  
 
-6. **Антиспуфинг-система (AI)**  
-   - Проверка поддельных лиц  
-   - Использование методов CV и нейросетей  
-   **Технологии:** Python | OpenCV | PyTorch | AI Security  
+6. **Anti-Spoofing AI System**  
+   - Fake face detection  
+   - CV and AI-based security methods  
+   **Tech:** Python | OpenCV | PyTorch | AI Security  
 
 ---
 
-### 📊 GitHub Статистика
+### 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FROWNINGdev&show_icons=true&theme=github_dark" />
@@ -76,14 +78,14 @@
 
 ---
 
-### 📫 Контакты
+### 📫 Contacts
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/FROWNINGnrx)
 
 ---
 
-### ⚡ Факт обо мне
+### ⚡ Fun Fact
 
-> Я пишу код, который буквально видит мир 🤖📷
+> I write code that literally sees the world 🤖📷
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
