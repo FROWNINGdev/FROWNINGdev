@@ -2,7 +2,7 @@
 
 [🇷🇺 Русский](./README_RU.md) | [🇬🇧 English](./README.md)
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/36/2d/5c/362d5c55859146c0c7debfca296ad321.gif" />
+<img align="right" alt="Coding" width="300" src="https://i.gifer.com/3odR.gif" />
 
 I'm 23 years old, a graduate of **KIUT**, Faculty of **Information Systems Engineering**,  
 and currently working as a **Full-stack Python Developer** at [SCC](https://scc.uz/).
