@@ -1,6 +1,6 @@
 # Hello! I'm FROWNINGdev 👋
 
-[🇷🇺 Русский](#привет-я--frowningdev-) | [🇬🇧 English](#hello-im-frowningdev-)
+[🇷🇺 Русский](./README_RU.md) | [🇬🇧 English](./README.md)
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
