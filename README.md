@@ -1,4 +1,4 @@
-# Ablakulov Amal | Senior Full-Stack Engineer
+# Ablakulov Amal |  Full-Stack Engineer
 
 [🇷🇺 Русский](./README_RU.md) | [🇬🇧 English](./README.md)
 
