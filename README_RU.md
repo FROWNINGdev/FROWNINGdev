@@ -1,4 +1,4 @@
-# Абдукулов Амаль | Senior Full-Stack Engineer
+# Абдукулов Амаль |  Full-Stack Engineer
 
 [🇷🇺 Русский](./README_RU.md) | [🇬🇧 English](./README.md)
 
