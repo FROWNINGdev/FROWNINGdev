@@ -4,22 +4,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,100:00ff99&height=180&section=header&text=FROWNINGdev&fontSize=70&fontAlignY=35&fontColor=00FF99" width="100%"/>
 
-<!-- Kali Linux Dragon -->
+<!-- Kali Linux Wallpaper -->
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="120" alt="Kali Linux Dragon" />
+<img src="https://wallpapercave.com/wp/wp5998892.jpg" width="100%" alt="Kali Linux Dragon Wallpaper" style="border-radius:10px; box-shadow:0 0 20px #00ff99;"/>
 
 <!-- Typing SVG -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=800&height=100&lines=Senior+Python+Engineer+%7C+AI+Architect;Cybersecurity+%7C+Anti-Spoofing+%7C+Computer+Vision;Safe+City+Uzbekistan+%7C+SCC+Program;Hacker+Mindset+%7C+Deep+Systems+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=800&height=100&lines=Senior+Python+Engineer+%7C+AI+Architect;Cybersecurity+%7C+Anti-Spoofing+%7C+Computer+Vision;Safe+City+Uzbekistan+%7C+SCC+Program;Member+of+CodeCoreRoot+Org" alt="Typing SVG" />
 </a>
-
-<!-- Badges -->
-
-<p align="center">
-  <a href="./README.md"><img src="https://img.shields.io/badge/🇬🇧_English-004d00?style=for-the-badge" alt="English"/></a>
-  <a href="./README_RU.md"><img src="https://img.shields.io/badge/🇷🇺_Русский-006633?style=for-the-badge" alt="Russian"/></a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FROWNINGdev&label=Profile%20Views&color=00FF99&style=for-the-badge" />
@@ -52,8 +45,6 @@ const ablakulov: Developer = {
 ---
 
 ## 💻 Tech Stack
-
-> *My daily tools and technologies that power production systems.*
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,react,fastapi,django,pytorch,tensorflow,opencv,postgresql,redis,docker,kubernetes,linux,nginx" />
@@ -98,13 +89,28 @@ const ablakulov: Developer = {
 
 ---
 
+## 📅 Contributions Overview (2025)
+
+**613 contributions in the last year**
+Joined **CodeCoreRoot** organization on **October 24, 2025**
+
+**Recent Highlights**
+
+* 🧠 `FROWNINGdev/PTZdetect` – Python-based PTZ object detection (Oct 22)
+* 💹 `FROWNINGdev/BazarMonitoring` – JavaScript real-time monitoring (Oct 15)
+* ⚙️ `FROWNINGdev/Bozor-detect` – AI-driven retail analytics (Oct 15)
+* 🔐 `FROWNINGdev/HCNetSDK-Libraries` – CCTV SDK extensions (Oct 14)
+* 🛰️ `FROWNINGdev/PTZ-CONTROL` – TypeScript ONVIF controller (Oct 10)
+
+---
+
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hackathon_Winner-2023-00FF99?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Research_Publications-3-00cc66?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Enterprise_Projects-10+-00b377?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cybersecurity_AI_Specialist-1-004d00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CodeCoreRoot_Member-2025-00FF99?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Security_Engineer-Expert-00cc66?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contributions-613-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects_Completed-15+-004d00?style=for-the-badge" />
 </p>
 
 ---
@@ -119,12 +125,10 @@ const ablakulov: Developer = {
 
 ---
 
-## 🐍 Contribution Snake
+## 💠 Cyber Themed Footer
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FROWNINGdev/FROWNINGdev/output/snake.svg" alt="Snake animation" />
+  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="600" alt="Cyber Animation" style="border-radius:10px; box-shadow:0 0 25px #00ff99;">
 </p>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:001a00&height=100&section=footer" width="100%"/>
