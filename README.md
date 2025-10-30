@@ -1,66 +1,139 @@
-# Ablakulov Amal |  Full-Stack Engineer
+<div align="center">
+
+# Ablakulov Amal
+
+**Senior Full-Stack Python Engineer**
 
 [🇷🇺 Русский](./README_RU.md) | [🇬🇧 English](./README.md)
 
-<img align="right" alt="Coding" width="280" src="https://i.gifer.com/3odR.gif" />
+![Profile Views](https://komarev.com/ghpvc/?username=FROWNINGdev&color=0EA5E9&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/FROWNINGdev?color=0EA5E9&style=flat-square&label=Followers)
+![GitHub User's stars](https://img.shields.io/github/stars/FROWNINGdev?color=0EA5E9&style=flat-square&label=Stars)
 
-Senior Full-Stack Python Engineer at [SCC](https://scc.uz/) with expertise in Computer Vision, AI Security, and Industrial Automation. Graduate of **KIUT** (Information Systems Engineering).
+</div>
 
-Currently architecting enterprise-grade solutions that bridge AI/ML capabilities with production systems, specializing in real-time computer vision pipelines and intelligent security frameworks.
+---
 
-## 🎯 Core Expertise
+## 👨‍💻 About Me
 
-**AI & Machine Learning**
-- Deep Learning architectures (PyTorch, TensorFlow)
-- Computer Vision pipelines (OpenCV, YOLO, Vision Transformers)
-- Anti-spoofing & biometric security systems
-- Anomaly detection for predictive maintenance
+Hi! I'm **Amal Ablakulov** — Senior Full-Stack Python Engineer at [SCC](https://scc.uz/) with expertise in **Computer Vision**, **AI Security**, and **Industrial Automation**.
 
-**Backend Engineering**
-- Microservices architecture (FastAPI, Django, Flask)
-- RESTful & GraphQL API design
-- Real-time processing systems
-- Distributed task queues (Celery, RQ)
+Graduate of **KIUT** (Information Systems Engineering). I specialize in architecting enterprise-grade solutions that bridge AI/ML capabilities with production systems.
 
-**Frontend & Full-Stack**
-- Modern React ecosystem (Hooks, Context, Redux)
-- TypeScript for type-safe development
-- Responsive UI/UX implementation
-- Real-time data visualization
+**Focus Areas:**
+- 🎥 Real-time computer vision pipelines
+- 🛡️ Intelligent security frameworks
+- 🏭 Industrial IoT and predictive maintenance
+- ⚡ High-availability microservices architecture
 
-**Industrial & Embedded**
-- STM32 embedded programming
-- IoT device integration
-- ONVIF protocol implementation
-- Industrial automation systems
+---
+
+## 🛠️ Technology Stack
+
+### 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=000)
+
+### 🔧 Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+### 🤖 AI/ML & Computer Vision
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### 🚀 DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 🔌 Embedded & IoT
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=arm&logoColor=white)
+
+---
+
+## 📊 GitHub Overview (reliable)
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/FROWNINGdev?style=for-the-badge&label=Followers&color=0EA5E9" alt="Followers" />
+<img src="https://img.shields.io/github/stars/FROWNINGdev?style=for-the-badge&label=Stars&color=0EA5E9" alt="Stars" />
+<img src="https://img.shields.io/github/repo-count/FROWNINGdev?style=for-the-badge&label=Public%20Repos&color=0EA5E9" alt="Public Repos" />
+
+</div>
+
+<div align="center">
+
+<sub>Note: External stat cards can be cached or inaccurate. These badges read live from GitHub.</sub>
+
+</div>
+
+---
+
+## 📈 Personal Metrics (auto-updated)
+
+<div align="center">
+
+<a href="https://github.com/FROWNINGdev/FROWNINGdev/actions/workflows/metrics.yml">
+  <img src="./output/metrics.svg" alt="GitHub Metrics" />
+  
+</a>
+
+</div>
 
 ---
 
 ## 💼 Featured Projects
 
-### 🏪 Digital Market Intelligence Platform
-Enterprise retail analytics system with computer vision capabilities.
+<div align="center">
 
-**Key Features:**
-- Automated shelf monitoring with YOLO-based detection
-- Real-time product availability tracking
-- ROI-based activity heatmap analysis
-- RESTful API for third-party integrations
+<a href="https://github.com/FROWNINGdev/PTZ-CONTROL" style="text-decoration:none;">
+<img src="https://img.shields.io/badge/PTZ--CONTROL-TypeScript-0EA5E9?style=flat-square" alt="PTZ-CONTROL" />
+</a>
+<a href="https://github.com/FROWNINGdev/PTZdetect" style="text-decoration:none;">
+<img src="https://img.shields.io/badge/PTZdetect-Python-0EA5E9?style=flat-square" alt="PTZdetect" />
+</a>
+<a href="https://github.com/FROWNINGdev/BazarMonitoring" style="text-decoration:none;">
+<img src="https://img.shields.io/badge/BazarMonitoring-JS-0EA5E9?style=flat-square" alt="BazarMonitoring" />
+</a>
+<a href="https://github.com/FROWNINGdev/HCNetSDK-Libraries" style="text-decoration:none;">
+<img src="https://img.shields.io/badge/HCNetSDK--Libraries-C-0EA5E9?style=flat-square" alt="HCNetSDK-Libraries" />
+</a>
+
+</div>
+
+### 🏪 Digital Market Intelligence Platform
+
+Enterprise retail analytics system with computer vision capabilities.
 
 **Stack:** `Python` `PyTorch` `OpenCV` `FastAPI` `React` `PostgreSQL` `Redis`
 
-**Impact:** 40% reduction in inventory checking time, real-time insights for 15+ retail locations
+**Impact:** ✅ **40%** reduction in inventory checking time, real-time insights for **15+** retail locations
 
 ---
 
 ### 🎥 PTZ-Control: Intelligent Camera Management System
-Advanced PTZ camera control system with automatic ROI detection.
 
-**Key Features:**
-- Dynamic region of interest calculation
-- ONVIF protocol integration for multi-vendor support
-- Real-time video stream processing
-- WebSocket-based live updates
+Advanced PTZ camera control system with automatic ROI detection.
 
 **Stack:** `TypeScript` `Python` `OpenCV` `ONVIF` `FastAPI` `WebRTC`
 
@@ -69,143 +142,78 @@ Advanced PTZ camera control system with automatic ROI detection.
 ---
 
 ### 🛡️ Anti-Spoofing Authentication System
-AI-powered face anti-spoofing for secure authentication.
 
-**Technical Approach:**
-- Multi-modal liveness detection (texture, depth, motion analysis)
-- Ensemble of CNNs and Vision Transformers
-- <0.5% False Acceptance Rate in production
-- Edge deployment optimization
+AI-powered face anti-spoofing for secure authentication.
 
 **Stack:** `Python` `PyTorch` `ONNX` `FastAPI` `Docker`
 
-**Research:** Implemented novel texture-based spoofing detection achieving 99.2% accuracy
+**Results:** ✅ **99.2%** accuracy, **<0.5%** False Acceptance Rate in production
 
 ---
 
 ### 📚 Proctoring Suite: Academic Integrity Platform
+
 Comprehensive exam monitoring system with AI-powered fraud detection.
 
-**Capabilities:**
-- Multi-point gaze tracking with head pose estimation
-- Prohibited object detection (phones, papers, secondary screens)
-- Behavioral anomaly scoring
-- Privacy-first architecture with local processing
-
 **Stack:** `Python` `MediaPipe` `YOLOv8` `FastAPI` `React` `TypeScript`
+
+**Features:** Privacy-first architecture with local processing
 
 ---
 
 ### 🏭 Predictive Maintenance for NGMK Mining Equipment
-Industrial IoT solution for equipment failure prediction.
 
-**Approach:**
-- Time-series analysis with LSTM networks
-- Multi-sensor data fusion
-- Anomaly detection using Isolation Forest and Autoencoders
-- 72-hour failure prediction window
+Industrial IoT solution for equipment failure prediction.
 
 **Stack:** `Python` `TensorFlow` `Pandas` `TimescaleDB` `Grafana`
 
-**Results:** 30% reduction in unplanned downtime, $200K+ annual savings
+**Results:** ✅ **30%** reduction in unplanned downtime, **$200K+** annual savings
 
 ---
 
 ### ⛓️ STM32-Based Secure Transaction System
-Embedded blockchain implementation for ATM security.
 
-**Technical Details:**
-- Custom lightweight blockchain protocol
-- ECDSA signature verification
-- Secure element integration
-- Transaction validation <100ms
+Embedded blockchain implementation for ATM security.
 
 **Stack:** `C` `STM32 HAL` `ARM Cortex-M` `FreeRTOS`
 
----
-
-## 🛠️ Technology Stack
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000)
-
-### Backend Technologies
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### AI/ML & Computer Vision
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### Frontend & UI
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Embedded & IoT
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+**Features:** Transaction validation **<100ms**, ECDSA signature verification
 
 ---
 
-## 📊 GitHub Analytics
+## 🏆 GitHub Achievements
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FROWNINGdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=FROWNINGdev&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FROWNINGdev&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
+![trophy](https://github-profile-trophy.vercel.app/?username=FROWNINGdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=7)
 
----
-
-## 🏆 Recent Activity
-
-```text
-🔨 PTZ-Control              ⚡ Updated 1 hour ago
-🎨 Rasta-Front-React         📦 Updated 2 weeks ago
-🌐 SUBNET                    🔧 Updated 2 weeks ago
-🔐 FAS (Face Anti-Spoofing)  🚀 Updated last month
-```
-
----
-
-## 📈 Professional Focus Areas
-
-- **Computer Vision in Production**: Building scalable CV pipelines that handle millions of frames
-- **AI Security**: Developing robust anti-spoofing and authentication systems
-- **Industrial IoT**: Creating predictive maintenance solutions for heavy industry
-- **Microservices Architecture**: Designing distributed systems with high availability
-- **Performance Optimization**: Achieving real-time processing on resource-constrained devices
+</div>
 
 ---
 
 ## 📫 Let's Connect
 
+<div align="center">
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FROWNINGnrx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FROWNINGdev)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"Building intelligent systems that perceive, understand, and act in the real world."</i>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FROWNINGdev&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</p>
+<img src="https://raw.githubusercontent.com/FROWNINGdev/FROWNINGdev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Thank you for visiting! ✨**
+
+</div>
