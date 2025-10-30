@@ -12,7 +12,7 @@
 ![Followers](https://img.shields.io/github/followers/FROWNINGdev?color=9CA3AF&labelColor=0b0b0b&style=flat-square&label=Followers)
 ![Stars](https://img.shields.io/github/stars/FROWNINGdev?color=9CA3AF&labelColor=0b0b0b&style=flat-square&label=Stars)
 
-![Profile](https://raw.githubusercontent.com/FROWNINGdev/FROWNINGdev/main/output/Profil.jpg)
+<img src="https://raw.githubusercontent.com/FROWNINGdev/FROWNINGdev/main/output/Profil.jpg" alt="Profile" width="96" />
 
 `Logo: AA` `Focus: Computer Vision` `Location: UZ`
 

@@ -12,7 +12,7 @@
 ![Подписчики](https://img.shields.io/github/followers/FROWNINGdev?color=9CA3AF&labelColor=0b0b0b&style=flat-square&label=Подписчики)
 ![Звёзды](https://img.shields.io/github/stars/FROWNINGdev?color=9CA3AF&labelColor=0b0b0b&style=flat-square&label=Звёзды)
 
-![Профиль](https://raw.githubusercontent.com/FROWNINGdev/FROWNINGdev/main/output/Profil.jpg)
+<img src="https://raw.githubusercontent.com/FROWNINGdev/FROWNINGdev/main/output/Profil.jpg" alt="Профиль" width="96" />
 
 `Логотип: AA` `Фокус: Computer Vision` `Локация: UZ`
 
