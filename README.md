@@ -119,108 +119,86 @@ Graduate of **KIUT** (Information Systems Engineering). I specialize in architec
 
 ## 💼 Featured Projects
 
-<div style="max-width:1000px; margin:0 auto; padding:0 16px; display:grid; gap:16px; text-align:left; line-height:1.7;">
+<div style="max-width:1000px; margin:0 auto; padding:0 16px; display:grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap:16px; text-align:left; line-height:1.7;">
 
-<div style="border:1px solid #1f2937; border-radius:12px; padding:0; background:#0b1220; text-align:left; max-width:900px; overflow:hidden;">
-  <div style="padding:12px 16px; background:linear-gradient(135deg,#0EA5E9 0%,#0b1220 65%); display:flex; align-items:center; gap:10px;">
-    <span style="font-size:20px;">🏪</span>
-    <b>Digital Market Intelligence Platform</b>
+  <div style="border:1px solid #1f2937; border-radius:12px; background:#0b1220; overflow:hidden; display:flex; flex-direction:column;">
+    <div style="padding:12px 16px; background:linear-gradient(135deg,#111827 0%,#1f2937 100%); display:flex; align-items:center; gap:10px;">
+      <span style="font-size:18px;">🏪</span>
+      <b>Digital Market Intelligence</b>
+    </div>
+    <div style="padding:12px 16px; color:#94a3b8;">Retail CV: shelf monitoring, heatmaps, real‑time stock.</div>
+    <div style="padding:0 12px 12px 12px; display:flex; flex-wrap:wrap; gap:6px;">
+      <img src="https://img.shields.io/badge/Python-777?logo=python&logoColor=white&labelColor=0b0b0b&color=9CA3AF" />
+      <img src="https://img.shields.io/badge/PyTorch-777?logo=pytorch&logoColor=white&labelColor=0b0b0b&color=9CA3AF" />
+      <img src="https://img.shields.io/badge/FastAPI-777?logo=fastapi&logoColor=white&labelColor=0b0b0b&color=9CA3AF" />
+      <img src="https://img.shields.io/badge/React-777?logo=react&logoColor=white&labelColor=0b0b0b&color=9CA3AF" />
+    </div>
   </div>
-  <div style="padding:12px 16px; color:#94a3b8;">Enterprise retail analytics with CV: shelf monitoring, heatmaps, real‑time stock.</div>
-  <div style="margin:8px 0; display:flex; flex-wrap:wrap; gap:6px;">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  </div>
-  <div style="display:flex; gap:8px; flex-wrap:wrap;">
-    <img src="https://img.shields.io/badge/Impact-40%25%20faster%20inventory-22c55e" />
-    <img src="https://img.shields.io/badge/Locations-15%2B-0EA5E9" />
-  </div>
-</div>
 
-<div style="border:1px solid #1f2937; border-radius:12px; padding:16px; background:#0b1220; text-align:left; max-width:900px;">
-  <div style="display:flex; align-items:center; gap:10px; margin-bottom:6px;">
-    <span style="font-size:20px;">🎥</span>
-    <b>PTZ-Control: Intelligent Camera Management</b>
+  <div style="border:1px solid #1f2937; border-radius:12px; background:#0b1220; overflow:hidden; display:flex; flex-direction:column;">
+    <div style="padding:12px 16px; background:linear-gradient(135deg,#111827 0%,#1f2937 100%); display:flex; align-items:center; gap:10px;">
+      <span style="font-size:18px;">🎥</span>
+      <b>PTZ‑Control</b>
+    </div>
+    <div style="padding:12px 16px; color:#94a3b8;">Auto‑ROI, ONVIF control, realtime streaming.</div>
+    <div style="padding:0 12px 12px 12px; display:flex; flex-wrap:wrap; gap:6px;">
+      <img src="https://img.shields.io/badge/TypeScript-777?logo=typescript&logoColor=white&labelColor=0b0b0b&color=9CA3AF" />
+      <img src="https://img.shields.io/badge/OpenCV-777?logo=opencv&logoColor=white&labelColor=0b0b0b&color=9CA3AF" />
+      <img src="https://img.shields.io/badge/FastAPI-777?logo=fastapi&logoColor=white&labelColor=0b0b0b&color=9CA3AF" />
+    </div>
   </div>
-  <div style="color:#94a3b8;">Auto‑ROI detection, ONVIF control, realtime streaming with WebSockets.</div>
-  <div style="margin:8px 0; display:flex; flex-wrap:wrap; gap:6px;">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/ONVIF-0EA5E9" />
-  </div>
-  <div style="display:flex; gap:8px; flex-wrap:wrap;">
-    <img src="https://img.shields.io/badge/Repo-Private-64748b?logo=github" />
-  </div>
-</div>
 
-<div style="border:1px solid #1f2937; border-radius:12px; padding:16px; background:#0b1220; text-align:left; max-width:900px;">
-  <div style="display:flex; align-items:center; gap:10px; margin-bottom:6px;">
-    <span style="font-size:20px;">🛡️</span>
-    <b>Anti‑Spoofing Authentication</b>
+  <div style="border:1px solid #1f2937; border-radius:12px; background:#0b1220; overflow:hidden; display:flex; flex-direction:column;">
+    <div style="padding:12px 16px; background:linear-gradient(135deg,#111827 0%,#1f2937 100%); display:flex; align-items:center; gap:10px;">
+      <span style="font-size:18px;">🛡️</span>
+      <b>Anti‑Spoofing Auth</b>
+    </div>
+    <div style="padding:12px 16px; color:#94a3b8;">Liveness (texture, depth, motion) with CNN/ViT.</div>
+    <div style="padding:0 12px 12px 12px; display:flex; flex-wrap:wrap; gap:6px;">
+      <img src="https://img.shields.io/badge/Python-777?logo=python&logoColor=white&labelColor=0b0b0b&color=9CA3AF" />
+      <img src="https://img.shields.io/badge/PyTorch-777?logo=pytorch&logoColor=white&labelColor=0b0b0b&color=9CA3AF" />
+      <img src="https://img.shields.io/badge/ONNX-777?logo=onnx&logoColor=white&labelColor=0b0b0b&color=9CA3AF" />
+    </div>
   </div>
-  <div style="color:#94a3b8;">Face liveness (texture, depth, motion) with CNN/ViT ensemble.</div>
-  <div style="margin:8px 0; display:flex; flex-wrap:wrap; gap:6px;">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  </div>
-  <div style="display:flex; gap:8px; flex-wrap:wrap;">
-    <img src="https://img.shields.io/badge/FAR-%3C0.5%25-22c55e" />
-    <img src="https://img.shields.io/badge/Accuracy-99.2%25-22c55e" />
-  </div>
-</div>
 
-<div style="border:1px solid #1f2937; border-radius:12px; padding:16px; background:#0b1220; text-align:left; max-width:900px;">
-  <div style="display:flex; align-items:center; gap:10px; margin-bottom:6px;">
-    <span style="font-size:20px;">📚</span>
-    <b>Proctoring Suite</b>
+  <div style="border:1px solid #1f2937; border-radius:12px; background:#0b1220; overflow:hidden; display:flex; flex-direction:column;">
+    <div style="padding:12px 16px; background:linear-gradient(135deg,#111827 0%,#1f2937 100%); display:flex; align-items:center; gap:10px;">
+      <span style="font-size:18px;">📚</span>
+      <b>Proctoring Suite</b>
+    </div>
+    <div style="padding:12px 16px; color:#94a3b8;">Gaze tracking, forbidden objects, anomaly scoring.</div>
+    <div style="padding:0 12px 12px 12px; display:flex; flex-wrap:wrap; gap:6px;">
+      <img src="https://img.shields.io/badge/YOLOv8-777?labelColor=0b0b0b&color=9CA3AF" />
+      <img src="https://img.shields.io/badge/MediaPipe-777?labelColor=0b0b0b&color=9CA3AF" />
+      <img src="https://img.shields.io/badge/React-777?logo=react&logoColor=white&labelColor=0b0b0b&color=9CA3AF" />
+    </div>
   </div>
-  <div style="color:#94a3b8;">Gaze tracking, forbidden objects detection, anomaly scoring.</div>
-  <div style="margin:8px 0; display:flex; flex-wrap:wrap; gap:6px;">
-    <img src="https://img.shields.io/badge/YOLOv8-00FFFF" />
-    <img src="https://img.shields.io/badge/MediaPipe-FF6D00" />
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-  </div>
-</div>
 
-<div style="border:1px solid #1f2937; border-radius:12px; padding:16px; background:#0b1220; text-align:left; max-width:900px;">
-  <div style="display:flex; align-items:center; gap:10px; margin-bottom:6px;">
-    <span style="font-size:20px;">🏭</span>
-    <b>Predictive Maintenance for NGMK</b>
+  <div style="border:1px solid #1f2937; border-radius:12px; background:#0b1220; overflow:hidden; display:flex; flex-direction:column;">
+    <div style="padding:12px 16px; background:linear-gradient(135deg,#111827 0%,#1f2937 100%); display:flex; align-items:center; gap:10px;">
+      <span style="font-size:18px;">🏭</span>
+      <b>Predictive Maintenance</b>
+    </div>
+    <div style="padding:12px 16px; color:#94a3b8;">LSTM, multi‑sensor fusion, 72‑hour window.</div>
+    <div style="padding:0 12px 12px 12px; display:flex; flex-wrap:wrap; gap:6px;">
+      <img src="https://img.shields.io/badge/TensorFlow-777?logo=tensorflow&logoColor=white&labelColor=0b0b0b&color=9CA3AF" />
+      <img src="https://img.shields.io/badge/TimescaleDB-777?labelColor=0b0b0b&color=9CA3AF" />
+      <img src="https://img.shields.io/badge/Grafana-777?logo=grafana&logoColor=white&labelColor=0b0b0b&color=9CA3AF" />
+    </div>
   </div>
-  <div style="color:#94a3b8;">Time‑series LSTM, multi‑sensor fusion, 72‑hour failure window.</div>
-  <div style="margin:8px 0; display:flex; flex-wrap:wrap; gap:6px;">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/TimescaleDB-FDB515?logo=timescale&logoColor=white" />
-    <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
-  </div>
-  <div style="display:flex; gap:8px; flex-wrap:wrap;">
-    <img src="https://img.shields.io/badge/Downtime-−30%25-22c55e" />
-    <img src="https://img.shields.io/badge/Savings-%24200K%2B-22c55e" />
-  </div>
-</div>
 
-<div style="border:1px solid #1f2937; border-radius:12px; padding:16px; background:#0b1220; text-align:left; max-width:900px;">
-  <div style="display:flex; align-items:center; gap:10px; margin-bottom:6px;">
-    <span style="font-size:20px;">⛓️</span>
-    <b>STM32‑Based Secure Transaction System</b>
+  <div style="border:1px solid #1f2937; border-radius:12px; background:#0b1220; overflow:hidden; display:flex; flex-direction:column;">
+    <div style="padding:12px 16px; background:linear-gradient(135deg,#111827 0%,#1f2937 100%); display:flex; align-items:center; gap:10px;">
+      <span style="font-size:18px;">⛓️</span>
+      <b>STM32 Secure TX</b>
+    </div>
+    <div style="padding:12px 16px; color:#94a3b8;">Embedded blockchain + ECDSA on Cortex‑M.</div>
+    <div style="padding:0 12px 12px 12px; display:flex; flex-wrap:wrap; gap:6px;">
+      <img src="https://img.shields.io/badge/C-777?labelColor=0b0b0b&color=9CA3AF" />
+      <img src="https://img.shields.io/badge/STM32-777?labelColor=0b0b0b&color=9CA3AF" />
+      <img src="https://img.shields.io/badge/FreeRTOS-777?labelColor=0b0b0b&color=9CA3AF" />
+    </div>
   </div>
-  <div style="color:#94a3b8;">Embedded blockchain + ECDSA on ARM Cortex‑M.</div>
-  <div style="margin:8px 0; display:flex; flex-wrap:wrap; gap:6px;">
-    <img src="https://img.shields.io/badge/C-A8B9CC" />
-    <img src="https://img.shields.io/badge/STM32-03234B" />
-    <img src="https://img.shields.io/badge/FreeRTOS-00B5E2" />
-  </div>
-  <div style="display:flex; gap:8px; flex-wrap:wrap;">
-    <img src="https://img.shields.io/badge/Validation-%3C100ms-0EA5E9" />
-  </div>
-</div>
 
 </div>
 
