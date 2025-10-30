@@ -1,20 +1,29 @@
-![Баннер](https://raw.githubusercontent.com/FROWNINGdev/FROWNINGdev/main/output/baner.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FROWNINGdev/FROWNINGdev/main/output/baner.jpg" alt="Баннер" />
+</p>
 
-# Абдукулов Амаль
+<h1 align="center">Абдукулов Амаль</h1>
 
-[@FROWNINGdev](https://github.com/FROWNINGdev)
+<p align="center">
+  <a href="https://github.com/FROWNINGdev">@FROWNINGdev</a><br/>
+  <b>Senior Full-Stack Python Engineer</b>
+</p>
 
-**Senior Full-Stack Python Engineer**
+<p align="center">
+  <a href="./README_RU.md">🇷🇺 Русский</a> | <a href="./README.md">🇬🇧 English</a>
+</p>
 
-[🇷🇺 Русский](./README_RU.md) | [🇬🇧 English](./README.md)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FROWNINGdev&color=9CA3AF&style=flat-square&label=Просмотры" alt="Просмотры"/>
+  <img src="https://img.shields.io/github/followers/FROWNINGdev?color=9CA3AF&labelColor=0b0b0b&style=flat-square&label=Подписчики" alt="Подписчики"/>
+  <img src="https://img.shields.io/github/stars/FROWNINGdev?color=9CA3AF&labelColor=0b0b0b&style=flat-square&label=Звёзды" alt="Звёзды"/>
+</p>
 
-![Просмотры](https://komarev.com/ghpvc/?username=FROWNINGdev&color=9CA3AF&style=flat-square&label=Просмотры)
-![Подписчики](https://img.shields.io/github/followers/FROWNINGdev?color=9CA3AF&labelColor=0b0b0b&style=flat-square&label=Подписчики)
-![Звёзды](https://img.shields.io/github/stars/FROWNINGdev?color=9CA3AF&labelColor=0b0b0b&style=flat-square&label=Звёзды)
-
-<img src="https://raw.githubusercontent.com/FROWNINGdev/FROWNINGdev/main/output/Profil.jpg" alt="Профиль" width="96" />
-
-`Логотип: AA` `Фокус: Computer Vision` `Локация: UZ`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FROWNINGdev/FROWNINGdev/main/output/Profil.jpg" alt="Профиль" width="96"/>
+  <br/>
+  <code>Логотип: AA</code> <code>Фокус: Computer Vision</code> <code>Локация: UZ</code>
+</p>
 
 ---
 
@@ -102,11 +111,39 @@
 
 ## 💼 Избранные проекты
 
-| Проект | Проект |
-| --- | --- |
-| 🏪 **Аналитика для ритейла**<br>CV‑аналитика: мониторинг полок, теплокарты, остатки.<br>Стек: `Python` `PyTorch` `FastAPI` `React` | 🎥 **PTZ‑Control**<br>Auto‑ROI, ONVIF, поток в реальном времени.<br>Стек: `TypeScript` `OpenCV` `FastAPI` |
-| 🛡️ **Anti‑Spoofing Auth**<br>Liveness (текстура, глубина, движение), CNN/ViT.<br>Стек: `Python` `PyTorch` `ONNX` `Docker` | 📚 **Система прокторинга**<br>Gaze‑tracking, запретные объекты, скоринг аномалий.<br>Стек: `YOLOv8` `MediaPipe` `React` |
-| 🏭 **Предиктивное обслуживание**<br>LSTM, мультисенсорный фьюжн, окно прогноза 72ч.<br>Стек: `TensorFlow` `TimescaleDB` `Grafana` | ⛓️ **STM32 Secure TX**<br>Embedded‑блокчейн + ECDSA на Cortex‑M.<br>Стек: `C` `STM32` `FreeRTOS` |
+> 🏪 **Аналитика для ритейла**  
+> CV‑аналитика: мониторинг полок, теплокарты, остатки.  
+> Стек: `Python` `PyTorch` `FastAPI` `React`
+
+---
+
+> 🎥 **PTZ‑Control**  
+> Auto‑ROI, ONVIF, поток в реальном времени.  
+> Стек: `TypeScript` `OpenCV` `FastAPI`
+
+---
+
+> 🛡️ **Anti‑Spoofing Auth**  
+> Liveness (текстура, глубина, движение), CNN/ViT.  
+> Стек: `Python` `PyTorch` `ONNX` `Docker`
+
+---
+
+> 📚 **Система прокторинга**  
+> Gaze‑tracking, запретные объекты, скоринг аномалий.  
+> Стек: `YOLOv8` `MediaPipe` `React`
+
+---
+
+> 🏭 **Предиктивное обслуживание**  
+> LSTM, мультисенсорный фьюжн, окно прогноза 72ч.  
+> Стек: `TensorFlow` `TimescaleDB` `Grafana`
+
+---
+
+> ⛓️ **STM32 Secure TX**  
+> Embedded‑блокчейн + ECDSA на Cortex‑M.  
+> Стек: `C` `STM32` `FreeRTOS`
 
 ---
 

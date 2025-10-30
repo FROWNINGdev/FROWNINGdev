@@ -1,20 +1,29 @@
-![Banner](https://raw.githubusercontent.com/FROWNINGdev/FROWNINGdev/main/output/baner.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FROWNINGdev/FROWNINGdev/main/output/baner.jpg" alt="Banner" />
+</p>
 
-# Ablakulov Amal
+<h1 align="center">Ablakulov Amal</h1>
 
-[@FROWNINGdev](https://github.com/FROWNINGdev)
+<p align="center">
+  <a href="https://github.com/FROWNINGdev">@FROWNINGdev</a><br/>
+  <b>Senior Full-Stack Python Engineer</b>
+</p>
 
-**Senior Full-Stack Python Engineer**
+<p align="center">
+  <a href="./README_RU.md">🇷🇺 Русский</a> | <a href="./README.md">🇬🇧 English</a>
+</p>
 
-[🇷🇺 Русский](./README_RU.md) | [🇬🇧 English](./README.md)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FROWNINGdev&color=9CA3AF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/FROWNINGdev?color=9CA3AF&labelColor=0b0b0b&style=flat-square&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/FROWNINGdev?color=9CA3AF&labelColor=0b0b0b&style=flat-square&label=Stars" alt="Stars"/>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=FROWNINGdev&color=9CA3AF&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/FROWNINGdev?color=9CA3AF&labelColor=0b0b0b&style=flat-square&label=Followers)
-![Stars](https://img.shields.io/github/stars/FROWNINGdev?color=9CA3AF&labelColor=0b0b0b&style=flat-square&label=Stars)
-
-<img src="https://raw.githubusercontent.com/FROWNINGdev/FROWNINGdev/main/output/Profil.jpg" alt="Profile" width="96" />
-
-`Logo: AA` `Focus: Computer Vision` `Location: UZ`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FROWNINGdev/FROWNINGdev/main/output/Profil.jpg" alt="Profile" width="96"/>
+  <br/>
+  <code>Logo: AA</code> <code>Focus: Computer Vision</code> <code>Location: UZ</code>
+</p>
 
 ---
 
@@ -102,11 +111,39 @@ Graduate of **KIUT** (Information Systems Engineering). I specialize in architec
 
 ## 💼 Featured Projects
 
-| Project | Project |
-| --- | --- |
-| 🏪 **Digital Market Intelligence**<br>Retail CV: shelf monitoring, heatmaps, real‑time stock.<br>Tech: `Python` `PyTorch` `FastAPI` `React` | 🎥 **PTZ‑Control**<br>Auto‑ROI, ONVIF control, realtime streaming.<br>Tech: `TypeScript` `OpenCV` `FastAPI` |
-| 🛡️ **Anti‑Spoofing Authentication**<br>Liveness (texture, depth, motion) with CNN/ViT.<br>Tech: `Python` `PyTorch` `ONNX` `Docker` | 📚 **Proctoring Suite**<br>Gaze tracking, forbidden objects, anomaly scoring.<br>Tech: `YOLOv8` `MediaPipe` `React` |
-| 🏭 **Predictive Maintenance**<br>LSTM, multi‑sensor fusion, 72‑hour window.<br>Tech: `TensorFlow` `TimescaleDB` `Grafana` | ⛓️ **STM32 Secure TX**<br>Embedded blockchain + ECDSA on Cortex‑M.<br>Tech: `C` `STM32` `FreeRTOS` |
+> 🏪 **Digital Market Intelligence**  
+> Retail CV: shelf monitoring, heatmaps, real‑time stock.  
+> Tech: `Python` `PyTorch` `FastAPI` `React`
+
+---
+
+> 🎥 **PTZ‑Control**  
+> Auto‑ROI, ONVIF control, realtime streaming.  
+> Tech: `TypeScript` `OpenCV` `FastAPI`
+
+---
+
+> 🛡️ **Anti‑Spoofing Authentication**  
+> Liveness (texture, depth, motion) with CNN/ViT.  
+> Tech: `Python` `PyTorch` `ONNX` `Docker`
+
+---
+
+> 📚 **Proctoring Suite**  
+> Gaze tracking, forbidden objects, anomaly scoring.  
+> Tech: `YOLOv8` `MediaPipe` `React`
+
+---
+
+> 🏭 **Predictive Maintenance**  
+> LSTM, multi‑sensor fusion, 72‑hour window.  
+> Tech: `TensorFlow` `TimescaleDB` `Grafana`
+
+---
+
+> ⛓️ **STM32 Secure TX**  
+> Embedded blockchain + ECDSA on Cortex‑M.  
+> Tech: `C` `STM32` `FreeRTOS`
 
 ---
 
