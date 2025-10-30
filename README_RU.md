@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./output/baner.jpg" alt="Banner" style="width:100%; border-radius:10px; margin-bottom:8px; filter:grayscale(100%);" />
+<img src="https://raw.githubusercontent.com/FROWNINGdev/FROWNINGdev/main/output/baner.jpg" alt="Banner" style="width:100%; border-radius:10px; margin-bottom:8px; filter:grayscale(100%);" />
 
 # Абдукулов Амаль
 
