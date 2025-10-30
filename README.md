@@ -102,29 +102,11 @@ Graduate of **KIUT** (Information Systems Engineering). I specialize in architec
 
 ## 💼 Featured Projects
 
-- 🏪 **Digital Market Intelligence**  
-  Retail CV: shelf monitoring, heatmaps, real‑time stock.  
-  Tech: `Python` `PyTorch` `FastAPI` `React`
-
-- 🎥 **PTZ‑Control**  
-  Auto‑ROI, ONVIF control, realtime streaming.  
-  Tech: `TypeScript` `OpenCV` `FastAPI`
-
-- 🛡️ **Anti‑Spoofing Authentication**  
-  Liveness (texture, depth, motion) with CNN/ViT.  
-  Tech: `Python` `PyTorch` `ONNX` `Docker`
-
-- 📚 **Proctoring Suite**  
-  Gaze tracking, forbidden objects, anomaly scoring.  
-  Tech: `YOLOv8` `MediaPipe` `React`
-
-- 🏭 **Predictive Maintenance**  
-  LSTM, multi‑sensor fusion, 72‑hour window.  
-  Tech: `TensorFlow` `TimescaleDB` `Grafana`
-
-- ⛓️ **STM32 Secure TX**  
-  Embedded blockchain + ECDSA on Cortex‑M.  
-  Tech: `C` `STM32` `FreeRTOS`
+| Project | Project |
+| --- | --- |
+| 🏪 **Digital Market Intelligence**<br>Retail CV: shelf monitoring, heatmaps, real‑time stock.<br>Tech: `Python` `PyTorch` `FastAPI` `React` | 🎥 **PTZ‑Control**<br>Auto‑ROI, ONVIF control, realtime streaming.<br>Tech: `TypeScript` `OpenCV` `FastAPI` |
+| 🛡️ **Anti‑Spoofing Authentication**<br>Liveness (texture, depth, motion) with CNN/ViT.<br>Tech: `Python` `PyTorch` `ONNX` `Docker` | 📚 **Proctoring Suite**<br>Gaze tracking, forbidden objects, anomaly scoring.<br>Tech: `YOLOv8` `MediaPipe` `React` |
+| 🏭 **Predictive Maintenance**<br>LSTM, multi‑sensor fusion, 72‑hour window.<br>Tech: `TensorFlow` `TimescaleDB` `Grafana` | ⛓️ **STM32 Secure TX**<br>Embedded blockchain + ECDSA on Cortex‑M.<br>Tech: `C` `STM32` `FreeRTOS` |
 
 ---
 

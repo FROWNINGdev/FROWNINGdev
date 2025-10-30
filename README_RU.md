@@ -102,29 +102,11 @@
 
 ## 💼 Избранные проекты
 
-- 🏪 **Аналитика для ритейла**  
-  CV‑аналитика: мониторинг полок, теплокарты, остатки.  
-  Стек: `Python` `PyTorch` `FastAPI` `React`
-
-- 🎥 **PTZ‑Control**  
-  Auto‑ROI, ONVIF, поток в реальном времени.  
-  Стек: `TypeScript` `OpenCV` `FastAPI`
-
-- 🛡️ **Anti‑Spoofing Auth**  
-  Liveness (текстура, глубина, движение), CNN/ViT.  
-  Стек: `Python` `PyTorch` `ONNX` `Docker`
-
-- 📚 **Система прокторинга**  
-  Gaze‑tracking, запретные объекты, поведенческий скоринг.  
-  Стек: `YOLOv8` `MediaPipe` `React`
-
-- 🏭 **Предиктивное обслуживание**  
-  LSTM, мультисенсорный фьюжн, окно прогноза 72ч.  
-  Стек: `TensorFlow` `TimescaleDB` `Grafana`
-
-- ⛓️ **STM32 Secure TX**  
-  Embedded‑блокчейн + ECDSA на Cortex‑M.  
-  Стек: `C` `STM32` `FreeRTOS`
+| Проект | Проект |
+| --- | --- |
+| 🏪 **Аналитика для ритейла**<br>CV‑аналитика: мониторинг полок, теплокарты, остатки.<br>Стек: `Python` `PyTorch` `FastAPI` `React` | 🎥 **PTZ‑Control**<br>Auto‑ROI, ONVIF, поток в реальном времени.<br>Стек: `TypeScript` `OpenCV` `FastAPI` |
+| 🛡️ **Anti‑Spoofing Auth**<br>Liveness (текстура, глубина, движение), CNN/ViT.<br>Стек: `Python` `PyTorch` `ONNX` `Docker` | 📚 **Система прокторинга**<br>Gaze‑tracking, запретные объекты, скоринг аномалий.<br>Стек: `YOLOv8` `MediaPipe` `React` |
+| 🏭 **Предиктивное обслуживание**<br>LSTM, мультисенсорный фьюжн, окно прогноза 72ч.<br>Стек: `TensorFlow` `TimescaleDB` `Grafana` | ⛓️ **STM32 Secure TX**<br>Embedded‑блокчейн + ECDSA на Cortex‑M.<br>Стек: `C` `STM32` `FreeRTOS` |
 
 ---
 
