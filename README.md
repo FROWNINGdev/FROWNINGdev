@@ -4,6 +4,8 @@
 
 # Ablakulov Amal
 
+[@FROWNINGdev](https://github.com/FROWNINGdev)
+
 **Senior Full-Stack Python Engineer**
 
 [🇷🇺 Русский](./README_RU.md) | [🇬🇧 English](./README.md)
