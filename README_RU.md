@@ -1,6 +1,4 @@
-<div align="center">
-
-<img src="./output/baner.jpg" alt="Banner" style="width:100%; border-radius:10px; margin-bottom:8px; filter:grayscale(100%);" />
+![Баннер](https://raw.githubusercontent.com/FROWNINGdev/FROWNINGdev/main/output/baner.jpg)
 
 # Абдукулов Амаль
 
@@ -10,21 +8,13 @@
 
 [🇷🇺 Русский](./README_RU.md) | [🇬🇧 English](./README.md)
 
-![Profile Views](https://komarev.com/ghpvc/?username=FROWNINGdev&color=9CA3AF&style=flat-square&label=Просмотры)
-![GitHub followers](https://img.shields.io/github/followers/FROWNINGdev?color=9CA3AF&labelColor=0b0b0b&style=flat-square&label=Подписчики)
-![GitHub User's stars](https://img.shields.io/github/stars/FROWNINGdev?color=9CA3AF&labelColor=0b0b0b&style=flat-square&label=Звёзды)
+![Просмотры](https://komarev.com/ghpvc/?username=FROWNINGdev&color=9CA3AF&style=flat-square&label=Просмотры)
+![Подписчики](https://img.shields.io/github/followers/FROWNINGdev?color=9CA3AF&labelColor=0b0b0b&style=flat-square&label=Подписчики)
+![Звёзды](https://img.shields.io/github/stars/FROWNINGdev?color=9CA3AF&labelColor=0b0b0b&style=flat-square&label=Звёзды)
 
-<div align="center" style="margin: 12px 0 4px 0;">
-  <img src="./output/Profil.jpg" alt="Profile" width="120" style="border-radius:50%; border:2px solid #9CA3AF; box-shadow:0 2px 12px rgba(156,163,175,0.35); filter:grayscale(100%);" />
+<img src="https://raw.githubusercontent.com/FROWNINGdev/FROWNINGdev/main/output/Profil.jpg" alt="Профиль" width="96" />
 
-  <div style="margin-top:8px; display:flex; gap:8px; justify-content:center; flex-wrap:wrap;">
-    <span style="background:#0b0b0b; color:#E5E7EB; border:1px solid #9CA3AF; padding:6px 10px; border-radius:8px; font-size:12px; letter-spacing:0.3px;">Логотип: AA</span>
-    <span style="background:#0b0b0b; color:#E5E7EB; border:1px solid #9CA3AF; padding:6px 10px; border-radius:8px; font-size:12px; letter-spacing:0.3px;">Фокус: Computer Vision</span>
-    <span style="background:#0b0b0b; color:#E5E7EB; border:1px solid #9CA3AF; padding:6px 10px; border-radius:8px; font-size:12px; letter-spacing:0.3px;">Локация: UZ</span>
-  </div>
-</div>
-
-</div>
+`Логотип: AA` `Фокус: Computer Vision` `Локация: UZ`
 
 ---
 
@@ -104,147 +94,32 @@
 
 ## 📈 Активность и языки
 
-<div style="max-width:1000px; margin:0 auto; padding:0 16px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FROWNINGdev&hide_border=true&area=true&area_color=4B5563&bg_color=0B0B0B&point=FFFFFF&color=FFFFFF&line=9CA3AF&custom_title=Последняя%20активность" alt="Activity Graph" style="display:block; margin:0 auto 12px;" />
+![График активности](https://github-readme-activity-graph.vercel.app/graph?username=FROWNINGdev&hide_border=true&area=true&area_color=4B5563&bg_color=0B0B0B&point=FFFFFF&color=FFFFFF&line=9CA3AF&custom_title=Последняя%20активность)
 
-  <div style="display:flex; flex-wrap:wrap; gap:8px; align-items:center;">
-    <img src="https://img.shields.io/badge/Основной-Python-3776AB?logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-    <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=000" />
-  </div>
-</div>
+`Основной: Python` `TypeScript` `JavaScript` `C`
 
 ---
 
 ## 💼 Избранные проекты
 
-<div style="max-width:1000px; margin:0 auto; padding:0 16px; display:grid; gap:16px; text-align:left; line-height:1.7;">
-
-<div style="border:1px solid #1f2937; border-radius:12px; padding:0; background:#0b1220; text-align:left; max-width:900px; overflow:hidden;">
-  <div style="padding:12px 16px; background:linear-gradient(135deg,#0EA5E9 0%,#0b1220 65%); display:flex; align-items:center; gap:10px;">
-    <span style="font-size:20px;">🏪</span>
-    <b>Платформа аналитики для цифрового ритейла</b>
-  </div>
-  <div style="padding:12px 16px; color:#94a3b8;">Аналитика с компьютерным зрением: мониторинг полок, теплокарты, остатки в реальном времени.</div>
-  <div style="margin:8px 0; display:flex; flex-wrap:wrap; gap:6px;">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  </div>
-  <div style="display:flex; gap:8px; flex-wrap:wrap;">
-    <img src="https://img.shields.io/badge/Эффект-−40%25%20к%20времени%20инвентаризации-22c55e" />
-    <img src="https://img.shields.io/badge/Точек-15%2B-0EA5E9" />
-  </div>
-</div>
-
-<div style="border:1px solid #1f2937; border-radius:12px; padding:16px; background:#0b1220; text-align:left; max-width:900px;">
-  <div style="display:flex; align-items:center; gap:10px; margin-bottom:6px;">
-    <span style="font-size:20px;">🎥</span>
-    <b>PTZ-Control: Интеллектуальная система управления</b>
-  </div>
-  <div style="color:#94a3b8;">Авто‑ROI, управление ONVIF, поток в реальном времени через WebSocket.</div>
-  <div style="margin:8px 0; display:flex; flex-wrap:wrap; gap:6px;">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/ONVIF-0EA5E9" />
-  </div>
-  <div style="display:flex; gap:8px; flex-wrap:wrap;">
-    <img src="https://img.shields.io/badge/Репозиторий-Private-64748b?logo=github" />
-  </div>
-</div>
-
-<div style="border:1px solid #1f2937; border-radius:12px; padding:16px; background:#0b1220; text-align:left; max-width:900px;">
-  <div style="display:flex; align-items:center; gap:10px; margin-bottom:6px;">
-    <span style="font-size:20px;">🛡️</span>
-    <b>Система аутентификации с защитой от спуфинга</b>
-  </div>
-  <div style="color:#94a3b8;">Liveness по текстуре/глубине/движению, ансамбль CNN/ViT.</div>
-  <div style="margin:8px 0; display:flex; flex-wrap:wrap; gap:6px;">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  </div>
-  <div style="display:flex; gap:8px; flex-wrap:wrap;">
-    <img src="https://img.shields.io/badge/FAR-%3C0.5%25-22c55e" />
-    <img src="https://img.shields.io/badge/Точность-99.2%25-22c55e" />
-  </div>
-</div>
-
-<div style="border:1px solid #1f2937; border-radius:12px; padding:16px; background:#0b1220; text-align:left; max-width:900px;">
-  <div style="display:flex; align-items:center; gap:10px; margin-bottom:6px;">
-    <span style="font-size:20px;">📚</span>
-    <b>Система прокторинга</b>
-  </div>
-  <div style="color:#94a3b8;">Отслеживание взгляда, запрещённые объекты, поведенческий скоринг.</div>
-  <div style="margin:8px 0; display:flex; flex-wrap:wrap; gap:6px;">
-    <img src="https://img.shields.io/badge/YOLOv8-00FFFF" />
-    <img src="https://img.shields.io/badge/MediaPipe-FF6D00" />
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-  </div>
-</div>
-
-<div style="border:1px solid #1f2937; border-radius:12px; padding:16px; background:#0b1220; text-align:left; max-width:900px;">
-  <div style="display:flex; align-items:center; gap:10px; margin-bottom:6px;">
-    <span style="font-size:20px;">🏭</span>
-    <b>Предиктивное обслуживание НГМК</b>
-  </div>
-  <div style="color:#94a3b8;">LSTM по временным рядам, мультисенсорный фьюжн, окно прогноза 72ч.</div>
-  <div style="margin:8px 0; display:flex; flex-wrap:wrap; gap:6px;">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/TimescaleDB-FDB515?logo=timescale&logoColor=white" />
-    <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
-  </div>
-  <div style="display:flex; gap:8px; flex-wrap:wrap;">
-    <img src="https://img.shields.io/badge/Downtime-−30%25-22c55e" />
-    <img src="https://img.shields.io/badge/Экономия-%24200K%2B-22c55e" />
-  </div>
-</div>
-
-<div style="border:1px solid #1f2937; border-radius:12px; padding:16px; background:#0b1220; text-align:left; max-width:900px;">
-  <div style="display:flex; align-items:center; gap:10px; margin-bottom:6px;">
-    <span style="font-size:20px;">⛓️</span>
-    <b>Защищённая транзакционная система на STM32</b>
-  </div>
-  <div style="color:#94a3b8;">Embedded‑блокчейн + ECDSA на ARM Cortex‑M.</div>
-  <div style="margin:8px 0; display:flex; flex-wrap:wrap; gap:6px;">
-    <img src="https://img.shields.io/badge/C-A8B9CC" />
-    <img src="https://img.shields.io/badge/STM32-03234B" />
-    <img src="https://img.shields.io/badge/FreeRTOS-00B5E2" />
-  </div>
-  <div style="display:flex; gap:8px; flex-wrap:wrap;">
-    <img src="https://img.shields.io/badge/Валидация-%3C100мс-0EA5E9" />
-  </div>
-</div>
-
-</div>
+| Проект | Проект |
+| --- | --- |
+| 🏪 **Аналитика для ритейла**<br>CV‑аналитика: мониторинг полок, теплокарты, остатки.<br>Стек: `Python` `PyTorch` `FastAPI` `React` | 🎥 **PTZ‑Control**<br>Auto‑ROI, ONVIF, поток в реальном времени.<br>Стек: `TypeScript` `OpenCV` `FastAPI` |
+| 🛡️ **Anti‑Spoofing Auth**<br>Liveness (текстура, глубина, движение), CNN/ViT.<br>Стек: `Python` `PyTorch` `ONNX` `Docker` | 📚 **Система прокторинга**<br>Gaze‑tracking, запретные объекты, скоринг аномалий.<br>Стек: `YOLOv8` `MediaPipe` `React` |
+| 🏭 **Предиктивное обслуживание**<br>LSTM, мультисенсорный фьюжн, окно прогноза 72ч.<br>Стек: `TensorFlow` `TimescaleDB` `Grafana` | ⛓️ **STM32 Secure TX**<br>Embedded‑блокчейн + ECDSA на Cortex‑M.<br>Стек: `C` `STM32` `FreeRTOS` |
 
 ---
 
 ## 📦 Репозитории
 
-<div align="center" style="display:flex; flex-wrap:wrap; gap:8px;">
-  <!-- Публичные репозитории (ссылки) -->
-  <a href="https://github.com/FROWNINGdev/HCNetSDK-Libraries" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/HCNetSDK--Libraries-Public-0EA5E9?logo=github" />
-  </a>
-  <a href="https://github.com/FROWNINGdev/SUBNET" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/SUBNET-Public-0EA5E9?logo=github" />
-  </a>
-
-  <!-- Приватные репозитории (без ссылок) -->
-  <img src="https://img.shields.io/badge/PTZ--CONTROL-Private-64748b?logo=github" />
-  <img src="https://img.shields.io/badge/PTZdetect-Private-64748b?logo=github" />
-  <img src="https://img.shields.io/badge/BazarMonitoring-Private-64748b?logo=github" />
-  <img src="https://img.shields.io/badge/Bozor--detect-Private-64748b?logo=github" />
-  <img src="https://img.shields.io/badge/FAS-Private-64748b?logo=github" />
-  <img src="https://img.shields.io/badge/Rasta--Front--React-Private-64748b?logo=github" />
-</div>
+- [HCNetSDK-Libraries](https://github.com/FROWNINGdev/HCNetSDK-Libraries) `Public`
+- [SUBNET](https://github.com/FROWNINGdev/SUBNET) `Public`
+- `PTZ-CONTROL` `Private`
+- `PTZdetect` `Private`
+- `BazarMonitoring` `Private`
+- `Bozor-detect` `Private`
+- `FAS` `Private`
+- `Rasta-Front-React` `Private`
 
 ---
 
@@ -252,21 +127,13 @@
 
 ## 📫 Связаться со мной
 
-<div align="center">
-
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FROWNINGnrx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FROWNINGdev)
 
-</div>
-
 ---
 
 ---
-
-<div align="center">
 
 **Спасибо за визит! ✨**
-
-</div>
