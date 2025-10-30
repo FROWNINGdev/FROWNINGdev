@@ -8,17 +8,17 @@
 
 [🇷🇺 Русский](./README_RU.md) | [🇬🇧 English](./README.md)
 
-![Profile Views](https://komarev.com/ghpvc/?username=FROWNINGdev&color=0EA5E9&style=flat-square&label=Просмотры)
+![Profile Views](https://komarev.com/ghpvc/?username=FROWNINGdev&color=9CA3AF&style=flat-square&label=Просмотры)
 ![GitHub followers](https://img.shields.io/github/followers/FROWNINGdev?color=9CA3AF&labelColor=0b0b0b&style=flat-square&label=Подписчики)
 ![GitHub User's stars](https://img.shields.io/github/stars/FROWNINGdev?color=9CA3AF&labelColor=0b0b0b&style=flat-square&label=Звёзды)
 
   <div align="center" style="margin: 12px 0 4px 0;">
     <img src="./output/Profil.jpg" alt="Profile" width="120" style="border-radius:50%; border:2px solid #9CA3AF; box-shadow:0 2px 12px rgba(156,163,175,0.35); filter:grayscale(100%);" />
     
-    <div style="margin-top:8px; display:flex; gap:6px; justify-content:center; flex-wrap:wrap;">
-      <img src="https://img.shields.io/badge/Логотип-AA-9CA3AF?style=for-the-badge&labelColor=0b0b0b" alt="Logo" />
-      <img src="https://img.shields.io/badge/Фокус-Computer%20Vision-9CA3AF?style=for-the-badge&labelColor=0b0b0b" />
-      <img src="https://img.shields.io/badge/Локация-UZ-9CA3AF?style=for-the-badge&labelColor=0b0b0b" />
+    <div style="margin-top:8px; display:flex; gap:8px; justify-content:center; flex-wrap:wrap;">
+      <span style="background:#0b0b0b; color:#E5E7EB; border:1px solid #9CA3AF; padding:6px 10px; border-radius:8px; font-size:12px; letter-spacing:0.3px;">Логотип: AA</span>
+      <span style="background:#0b0b0b; color:#E5E7EB; border:1px solid #9CA3AF; padding:6px 10px; border-radius:8px; font-size:12px; letter-spacing:0.3px;">Фокус: Computer Vision</span>
+      <span style="background:#0b0b0b; color:#E5E7EB; border:1px solid #9CA3AF; padding:6px 10px; border-radius:8px; font-size:12px; letter-spacing:0.3px;">Локация: UZ</span>
     </div>
   </div>
 
@@ -87,9 +87,8 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/FROWNINGdev?style=for-the-badge&label=Подписчики&color=0EA5E9" alt="Followers" />
-<img src="https://img.shields.io/github/stars/FROWNINGdev?style=for-the-badge&label=Звёзды&color=0EA5E9" alt="Stars" />
-<img src="https://img.shields.io/github/repo-count/FROWNINGdev?style=for-the-badge&label=Публичные%20репозитории&color=0EA5E9" alt="Public Repos" />
+<img src="https://img.shields.io/github/followers/FROWNINGdev?style=for-the-badge&label=Подписчики&color=9CA3AF&labelColor=0b0b0b" alt="Followers" />
+<img src="https://img.shields.io/github/stars/FROWNINGdev?style=for-the-badge&label=Звёзды&color=9CA3AF&labelColor=0b0b0b" alt="Stars" />
 
 </div>
 
