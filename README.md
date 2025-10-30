@@ -102,24 +102,22 @@ Graduate of **KIUT** (Information Systems Engineering). I specialize in architec
 
 ## 📈 Activity and Languages
 
-<div align="center">
+<div style="max-width:1000px; margin:0 auto; padding:0 16px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FROWNINGdev&hide_border=true&area=true&area_color=4B5563&bg_color=0B0B0B&point=FFFFFF&color=FFFFFF&line=9CA3AF&custom_title=Recent%20Activity" alt="Activity Graph" style="display:block; margin:0 auto 12px;" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FROWNINGdev&hide_border=true&area=true&area_color=4B5563&bg_color=0B0B0B&point=FFFFFF&color=FFFFFF&line=9CA3AF&custom_title=Recent%20Activity" alt="Activity Graph" />
-
-<div>
-  <img src="https://img.shields.io/badge/Primary-Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=000" />
-</div>
-
+  <div style="display:flex; flex-wrap:wrap; gap:8px; align-items:center;">
+    <img src="https://img.shields.io/badge/Primary-Python-3776AB?logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+    <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=000" />
+  </div>
 </div>
 
 ---
 
 ## 💼 Featured Projects
 
-<div align="center" style="display:grid; gap:16px;">
+<div style="max-width:1000px; margin:0 auto; padding:0 16px; display:grid; gap:16px; text-align:left; line-height:1.7;">
 
 <div style="border:1px solid #1f2937; border-radius:12px; padding:0; background:#0b1220; text-align:left; max-width:900px; overflow:hidden;">
   <div style="padding:12px 16px; background:linear-gradient(135deg,#0EA5E9 0%,#0b1220 65%); display:flex; align-items:center; gap:10px;">
