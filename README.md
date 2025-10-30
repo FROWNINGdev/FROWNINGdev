@@ -12,15 +12,15 @@
 ![GitHub followers](https://img.shields.io/github/followers/FROWNINGdev?color=9CA3AF&labelColor=0b0b0b&style=flat-square&label=Followers)
 ![GitHub User's stars](https://img.shields.io/github/stars/FROWNINGdev?color=9CA3AF&labelColor=0b0b0b&style=flat-square&label=Stars)
 
-  <div align="center" style="margin: 12px 0 4px 0;">
-    <img src="./output/Profil.jpg" alt="Profile" width="120" style="border-radius:50%; border:2px solid #9CA3AF; box-shadow:0 2px 12px rgba(156,163,175,0.35); filter:grayscale(100%);" />
-    
-    <div style="margin-top:8px; display:flex; gap:8px; justify-content:center; flex-wrap:wrap;">
-      <span style="background:#0b0b0b; color:#E5E7EB; border:1px solid #9CA3AF; padding:6px 10px; border-radius:8px; font-size:12px; letter-spacing:0.3px;">Logo: AA</span>
-      <span style="background:#0b0b0b; color:#E5E7EB; border:1px solid #9CA3AF; padding:6px 10px; border-radius:8px; font-size:12px; letter-spacing:0.3px;">Focus: Computer Vision</span>
-      <span style="background:#0b0b0b; color:#E5E7EB; border:1px solid #9CA3AF; padding:6px 10px; border-radius:8px; font-size:12px; letter-spacing:0.3px;">Location: UZ</span>
-    </div>
+<div align="center" style="margin: 12px 0 4px 0;">
+  <img src="./output/Profil.jpg" alt="Profile" width="120" style="border-radius:50%; border:2px solid #9CA3AF; box-shadow:0 2px 12px rgba(156,163,175,0.35); filter:grayscale(100%);" />
+
+  <div style="margin-top:8px; display:flex; gap:8px; justify-content:center; flex-wrap:wrap;">
+    <span style="background:#0b0b0b; color:#E5E7EB; border:1px solid #9CA3AF; padding:6px 10px; border-radius:8px; font-size:12px; letter-spacing:0.3px;">Logo: AA</span>
+    <span style="background:#0b0b0b; color:#E5E7EB; border:1px solid #9CA3AF; padding:6px 10px; border-radius:8px; font-size:12px; letter-spacing:0.3px;">Focus: Computer Vision</span>
+    <span style="background:#0b0b0b; color:#E5E7EB; border:1px solid #9CA3AF; padding:6px 10px; border-radius:8px; font-size:12px; letter-spacing:0.3px;">Location: UZ</span>
   </div>
+</div>
 
 </div>
 
