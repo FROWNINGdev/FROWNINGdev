@@ -56,8 +56,8 @@ jobs:
           plugin_repositories_featured: FROWNINGdev/PTZ-CONTROL, FROWNINGdev/PTZdetect
 
           # Output
-          filename: output/metrics.svg
+          filename: metrics.svg
           output_action: commit
-          committer_branch: main
+          committer_branch: output
           committer_message: "chore(metrics): update"
 

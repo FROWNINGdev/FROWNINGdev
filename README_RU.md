@@ -94,7 +94,7 @@
 <div align="center">
 
 <a href="https://github.com/FROWNINGdev/FROWNINGdev/actions/workflows/metrics.yml">
-  <img src="./output/metrics.svg" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/FROWNINGdev/FROWNINGdev/output/metrics.svg" alt="GitHub Metrics" />
   
 </a>
 
