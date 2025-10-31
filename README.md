@@ -134,7 +134,7 @@ Graduated from **KIUT** (Information Systems). I build production‑ready system
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect❤️
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FROWNINGnrx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
