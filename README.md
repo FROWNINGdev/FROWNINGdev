@@ -1,12 +1,12 @@
 <!-- ====================== HEADER ====================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:006400,100:00FF41&height=220&section=header&text=Amal%20Ablakulov&fontColor=00FF41&fontSize=52&fontAlignY=38&desc=Computer%20Vision%20%C2%B7%20ANPR%20%C2%B7%20Camera%20%26%20SCADA%20Systems&descSize=18&descAlignY=60&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:006400,100:00FF41&height=220&section=header&text=Amal%20Ablakulov&fontColor=00FF41&fontSize=52&fontAlignY=38&desc=Computer%20Vision%20%C2%B7%20ANPR%20%C2%B7%20Camera%20and%20SCADA%20Systems&descSize=18&descAlignY=60&animation=fadeIn" alt="header"/>
 </p>
 
 <!-- ====================== TYPING ====================== -->
 <p align="center">
   <a href="https://github.com/FROWNINGdev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=720&lines=Computer+Vision+%26+Full-Stack+Engineer;ANPR+%2F+License-Plate+Recognition;Real-time+Video+Analytics+%26+PTZ+Control;Industrial+SCADA+%26+Smart-City+Systems" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=720&lines=Computer+Vision+and+Full-Stack+Engineer;ANPR+%2F+License-Plate+Recognition;Real-time+Video+Analytics+and+PTZ+Control;Industrial+SCADA+and+Smart-City+Systems" alt="typing"/>
   </a>
 </p>
 
@@ -24,26 +24,26 @@
 
 <img align="right" width="120" src="https://raw.githubusercontent.com/FROWNINGdev/FROWNINGdev/main/output/Profil.jpg" alt="avatar"/>
 
-Hi! I'm **Amal Ablakulov** — a Computer Vision & Full-Stack Engineer at [SCC](https://scc.uz/) based in Uzbekistan. I ship **production smart-city systems**: real-time video analytics, **ANPR / license-plate recognition**, PTZ camera infrastructure, and operator-facing dashboards — end to end, from the GPU detection pipeline to the React/Vue UI the operator actually uses.
+Hi! I'm **Amal Ablakulov** — a Computer Vision and Full-Stack Engineer at [SCC](https://scc.uz/) based in Uzbekistan. I ship **production smart-city systems**: real-time video analytics, **ANPR / license-plate recognition**, PTZ camera infrastructure, and operator-facing dashboards — end to end, from the GPU detection pipeline to the React/Vue UI the operator actually uses.
 
-My work spans **parking & car-market control**, **market (bozor) monitoring**, **safe-city video streaming**, and **industrial SCADA**. Graduated from **KIUT** (Information Systems).
+My work spans **parking and car-market control**, **market (bozor) monitoring**, **safe-city video streaming**, and **industrial SCADA**. Graduated from **KIUT** (Information Systems).
 
 <br clear="right"/>
 
 ## 🚀 What I Build
 
-- 🅿️ **Parking & ANPR** — parking-control platform on **.NET 8 + React + NVIDIA DeepStream**: plate recognition, slot occupancy, billing
-- 🛒 **Market (bozor) monitoring** — CV detection & analytics over market / car-bazaar camera feeds
+- 🅿️ **Parking and ANPR** — parking-control platform on **.NET 8 + React + NVIDIA DeepStream**: plate recognition, slot occupancy, billing
+- 🛒 **Market (bozor) monitoring** — CV detection and analytics over market / car-bazaar camera feeds
 - 🎛️ **SCC platform** — PTZ control, video streaming (RTSP/ONVIF), face anti-spoofing, network tooling
 - 🏭 **Industrial SCADA** — *Uzmetkombinat* dashboard (**Vue 3**) + **.NET 10** backend (PostgreSQL, JWT, voice pipeline, ANPR/ISUP/L3)
-- 🎥 **Camera infrastructure** — Hikvision PTZ & **HCNetSDK**, RTSP/ONVIF pipelines, safe-city streaming
+- 🎥 **Camera infrastructure** — Hikvision PTZ and **HCNetSDK**, RTSP/ONVIF pipelines, safe-city streaming
 
 ## 🧩 Featured Systems
 
 | System | Stack | What it does |
 |---|---|---|
 | **Parking-Control** | .NET 8 · React · DeepStream | Car-market parking with ANPR, slot events, billing |
-| **SCC — Smart Control Center** | TypeScript · Python · WebRTC | Centralized monitoring, PTZ control & video analytics |
+| **SCC — Smart Control Center** | TypeScript · Python · WebRTC | Centralized monitoring, PTZ control, video analytics |
 | **Uzmetkombinat** | Vue 3 · .NET 10 · PostgreSQL | Industrial SCADA dashboard + API |
 | **Bozor detection** | Python · OpenCV · PyTorch | Real-time detection over market camera feeds |
 
@@ -90,5 +90,5 @@ My work spans **parking & car-market control**, **market (bozor) monitoring**, *
 
 <!-- ====================== FOOTER ====================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:006400,100:000000&height=120&section=footer&text=Thanks%20for%20visiting!&fontColor=00FF41&fontSize=18&fontAlignY=70" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:006400,100:000000&height=120&section=footer" alt="footer"/>
 </p>
