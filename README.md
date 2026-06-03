@@ -61,10 +61,7 @@ My work spans **parking and car-market control**, **market (bozor) monitoring**,
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FROWNINGdev&show_icons=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0D1117" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FROWNINGdev&layout=compact&hide_border=true&title_color=00FF41&text_color=c9d1d9&bg_color=0D1117&langs_count=8" alt="top-langs"/>
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=FROWNINGdev&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&stroke=00FF41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak"/>
