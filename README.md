@@ -8,7 +8,8 @@ Welcome to my page; on my Github, you can find:
 - Notes on Django internals, static analysis and camera infrastructure
 
 #### 📧 You can contact me on:
-[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FROWNINGnrx)
+[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FROWNINGdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frowningdev)
 
 *I am open to new opportunities.*
 
@@ -66,6 +67,8 @@ The constraint that shapes most of my choices is that these run on real cameras,
 
 #### 🧰 I write open-source developer tools in free time.
 
+<a href="https://github.com/FROWNINGdev/django-orm-lens"><img src="assets/django-orm-lens.png" alt="Django ORM Lens — VS Code extension, CLI and MCP server for Django schemas" width="100%"/></a>
+
 **[django-orm-lens](https://github.com/FROWNINGdev/django-orm-lens)** — reads a Django project's model graph **without booting Django**: no import, no database, no venv of the target project. `regex + ast` answers *"what points at User?"* in ~15ms instead of a 2–5s Django boot.
 
 One core, three distributions — a Python CLI, a VS Code extension, and an **MCP server** for AI coding agents. The TypeScript and Python parsers are pinned to identical output by a shared golden fixture, so the editor sidebar and the agent can never disagree about a schema.
@@ -91,5 +94,12 @@ One core, three distributions — a Python CLI, a VS Code extension, and an **MC
 | **Camera infrastructure** | Hikvision HCNetSDK · RTSP/ONVIF | PTZ pipelines, safe-city streaming, face anti-spoofing |
 
 <sub>Most of these are private production repositories — which is exactly why the stats above are generated rather than counted from public activity.</sub>
+
+#### 🐍 Contribution graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FROWNINGdev/FROWNINGdev/snk/github-snake-dark.svg" />
+  <img alt="Contribution graph eaten by a snake" src="https://raw.githubusercontent.com/FROWNINGdev/FROWNINGdev/snk/github-snake.svg" />
+</picture>
 
 ![](https://komarev.com/ghpvc/?username=FROWNINGdev&color=00FF41&style=flat-square&label=Profile+Views)

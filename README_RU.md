@@ -86,6 +86,11 @@
 
 ## 📈 Активность
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FROWNINGdev/FROWNINGdev/snk/github-snake-dark.svg" />
+  <img alt="Змейка по графику контрибуций" src="https://raw.githubusercontent.com/FROWNINGdev/FROWNINGdev/snk/github-snake.svg" />
+</picture>
+
 ![График активности](https://github-readme-activity-graph.vercel.app/graph?username=FROWNINGdev&hide_border=true&area=true&area_color=4B5563&bg_color=0B0B0B&point=FFFFFF&color=FFFFFF&line=9CA3AF&custom_title=Последняя%20активность)
 
 `Основные языки: Python · TypeScript · JavaScript · C`
@@ -93,6 +98,10 @@
 ---
 
 ## 💼 Избранные проекты
+
+<a href="https://github.com/FROWNINGdev/django-orm-lens"><img src="assets/django-orm-lens.png" alt="Django ORM Lens — VS Code extension, CLI and MCP server for Django schemas" width="100%"/></a>
+
+**[django-orm-lens](https://github.com/FROWNINGdev/django-orm-lens)** — статический анализ Django-моделей и миграций без запуска Django: расширение VS Code (18 правил с QuickFix, ER-диаграмма), CLI и GitHub Action (N+1, drift, 16 проверок риска миграций), MCP-сервер для ИИ-агентов. Упоминался в Django News #347 и PyCoder's Weekly #746.
 
 - 🏪 <b>Retail CV Analytics</b> — мониторинг полок, теплокарты, остатки · `Python` `PyTorch` `FastAPI` `React`
 - 🎥 <b>PTZ‑Control</b> — Auto‑ROI, ONVIF, RTSP/WebRTC стрим · `TypeScript` `OpenCV` `FastAPI`
@@ -150,9 +159,8 @@
 
 ## 📫 Связаться со мной
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FROWNINGnrx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FROWNINGdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frowningdev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FROWNINGdev)
 
 ---
